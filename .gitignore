@@ -4,7 +4,6 @@ results/
 .idea/
 IBM Attrition Data.csv
 IBM_Employee_Attrition_Prediction.ipynb
-employeeAnalytics.py
 results/Attrition Decision Tree
 employeeAnalytics.ipynb
 

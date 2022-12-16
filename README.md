@@ -16,4 +16,4 @@ As by 2022-12-15, the highest accuracy score (0.851) is achieved with RandomFore
 [//]:#
    [course]: <https://lms.simplilearn.com/courses/2772/Data-Science-with-Python/syllabus>
    [data]: <https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset>
-   [description]: <./ensembleLearning.py>
+   [description]: <./employeeAnalytics.py>
